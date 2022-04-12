@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sd7T88vwY6naSB7LLY66IQtnqPY0DTi/Y7eqO74BUeUenNFUVvSEmQOptE3et5PYThguMKJXEeQYM1FHCW3Qxg==",
+  "dgSpecHash": "89CPAkLtJ6kkHGjeTa8At+bg1eD25FpOUHx91p6mzJzOSPE0Og5QvanwaLrFJQrD5BR8ntQf2JxWhIiBrWA1ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlos.garcia\\source\\repos\\BlazorCRUD\\BlazorCrud.Model\\BlazorCrud.Model.csproj",
+  "projectFilePath": "C:\\Users\\carlos.garcia\\source\\repos\\PracticaBlazorCRUD\\BlazorCrud.Model\\BlazorCrud.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "49n/Ww4KKBIvIAQLUqY6CJMyo24Vopxws5sDdsKqj++h18wxJR0ncm8JbiRtLG+IWTg0ZPqn8ET17gQxL++vZg==",
+  "dgSpecHash": "27xj/8w2VbWrGgQH5xR9BJwwF9Pb2ySUethRjfTuYsMjTm3tvJJJYc/r2EassPlQFrQ2y3V7vsDoCBsqEsWCIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlos.garcia\\source\\repos\\BlazorCRUD\\BlazorCRUD.UI\\BlazorCRUD.UI.csproj",
+  "projectFilePath": "C:\\Users\\carlos.garcia\\source\\repos\\PracticaBlazorCRUD\\BlazorCRUD.UI\\BlazorCRUD.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlos.garcia\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\carlos.garcia\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
