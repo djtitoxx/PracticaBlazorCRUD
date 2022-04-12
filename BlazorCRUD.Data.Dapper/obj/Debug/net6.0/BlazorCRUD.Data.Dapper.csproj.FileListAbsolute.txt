@@ -1,0 +1,15 @@
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\bin\Debug\net6.0\BlazorCRUD.Data.Dapper.deps.json
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\bin\Debug\net6.0\BlazorCRUD.Data.Dapper.dll
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\bin\Debug\net6.0\BlazorCRUD.Data.Dapper.pdb
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\net6.0\BlazorCRUD.Data.Dapper.csproj.AssemblyReference.cache
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\net6.0\BlazorCRUD.Data.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\net6.0\BlazorCRUD.Data.Dapper.AssemblyInfoInputs.cache
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\net6.0\BlazorCRUD.Data.Dapper.AssemblyInfo.cs
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\net6.0\BlazorCRUD.Data.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\net6.0\BlazorCRUD.Data.Dapper.dll
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\net6.0\refint\BlazorCRUD.Data.Dapper.dll
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\net6.0\BlazorCRUD.Data.Dapper.pdb
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\net6.0\ref\BlazorCRUD.Data.Dapper.dll
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\bin\Debug\net6.0\BlazorCrud.Model.dll
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\bin\Debug\net6.0\BlazorCrud.Model.pdb
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\net6.0\BlazorCRUD.Data.Dapper.csproj.CopyComplete

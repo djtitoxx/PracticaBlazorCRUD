@@ -1,0 +1,12 @@
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\bin\Debug\net6.0\BlazorCrud.Model.deps.json
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\bin\Debug\net6.0\BlazorCrud.Model.dll
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\bin\Debug\net6.0\BlazorCrud.Model.pdb
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\obj\Debug\net6.0\BlazorCrud.Model.csproj.AssemblyReference.cache
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\obj\Debug\net6.0\BlazorCrud.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\obj\Debug\net6.0\BlazorCrud.Model.AssemblyInfoInputs.cache
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\obj\Debug\net6.0\BlazorCrud.Model.AssemblyInfo.cs
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\obj\Debug\net6.0\BlazorCrud.Model.csproj.CoreCompileInputs.cache
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\obj\Debug\net6.0\BlazorCrud.Model.dll
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\obj\Debug\net6.0\refint\BlazorCrud.Model.dll
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\obj\Debug\net6.0\BlazorCrud.Model.pdb
+C:\Users\carlos.garcia\source\repos\BlazorCRUD\BlazorCrud.Model\obj\Debug\net6.0\ref\BlazorCrud.Model.dll
